@@ -49,7 +49,7 @@ Made With Python(3.9.0) And Tkinter Gui.
 And obviously Python 3 😆
 
 
-**N.B : Test In Alliance Broadband Kolkata Only**
+**N.B : Test In Alliance Broadband Kolkata Circle**
 
 
 
