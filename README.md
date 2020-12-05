@@ -6,8 +6,9 @@ Advance version of Alliance Broadband IP Connect.
 
 Made With Python(3.9.0) And Tkinter Gui.
 
+**For Windows Only**
 
-Features of IP Connect v2.0:
+**Features of IP Connect v2.0:**
 
 1. User can save Login Credentials for hassle free Login.
 
@@ -18,18 +19,18 @@ Features of IP Connect v2.0:
 4. Smooth and Clean UI.
 
 
-Security:
+**Security:**
 
 1. User's Login Credentials save in a encrypted file.
 
 
 
-Demo:
+**Demo:**
 
 ![](demo.gif)
 
 
-Requirements:
+**Requirements:**
 
 1. cryptography
 
@@ -45,8 +46,11 @@ Requirements:
 
 7. lxml
 
-And obviously Python 3 
+And obviously Python 3 😆
+
+
+**N.B : Test In Alliance Broadband Kolkata Only**
 
 
 
-N.B : Test In Alliance Broadband Kolkata Only
+**Drop a STAR if you like it!!! 😃**
