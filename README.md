@@ -26,7 +26,7 @@ Security:
 
 Demo:
 
-![](name-of-giphy.gif)(Demo/IPConnect-V2.0 Demo.gif)
+![](demo.gif)
 
 
 Requirements:
